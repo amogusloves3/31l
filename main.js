@@ -50,3 +50,4 @@ let clicker = document.querySelector(".peepo--js");
 clicker.addEventListener("click", clickCount);
 
 //let interval = window.setInterval(peepoSpin, 2000);
+
